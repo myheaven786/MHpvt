@@ -5,14 +5,14 @@
 <a href="https://github.com/DarkMakerofc"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
 <br>
 <a href="https://github.com/darkmakerofc?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/darkmakerofc?color=green&style=flat-square"></a>
-<a href="https://github.com/DarkMakerofc/ZUSYCO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/darkmakerofc/ 🕋MyHeaven🕋?color=white&style=flat-square"></a>
-<a href="https://github.com/DarkMakerofc/ZUSYCO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/darkmakerofc/ 🕋MyHeaven🕋?color=yellow&style=flat-square"></a>
+<a href="https://github.com/DarkMakerofc/🕋MyHeaven🕋/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/darkmakerofc/ 🕋MyHeaven🕋?color=white&style=flat-square"></a>
+<a href="https://github.com/DarkMakerofc/🕋MyHeaven🕋/network/members"><img title="Forks" src="https://img.shields.io/github/forks/darkmakerofc/ 🕋MyHeaven🕋?color=yellow&style=flat-square"></a>
 <br><br>
 </div>
 <div align= "left">
 
   ### Frok  🕋MyHeaven🕋 Repository
-<a href="https://github.com/DarkMakerofc/ZUSYCO-MD/fork"><img src="https://i.ibb.co/Yj3tZdZ/fork-zusyco-btn.png" alt="🕋MyHeaven🕋" border="2" width="155" height="46" ></a>
+<a href="https://github.com/DarkMakerofc/🕋MyHeaven🕋/fork"><img src="https://i.ibb.co/Yj3tZdZ/fork-zusyco-btn.png" alt="🕋MyHeaven🕋" border="2" width="155" height="46" ></a>
   ### Link Bot To Your Whatsapp.
   
 <a href="https://gpt-qr-code.onrender.com/zusyco"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="SCAN-QR" border="2" width="170" height="40" ></a>
@@ -40,7 +40,7 @@
 
 ◍ Deploy Using Template
   
-<a href="https://replit.com/ 🕋MyHeaven🕋/ZUSYCO-MD?v=1"><img src="https://i.ibb.co/YNwCMsp/zusyco-replit-template-btn.png" alt="--🕋MyHeaven🕋" border="2" width="170" height="46" ></a>
+<a href="https://replit.com/ 🕋MyHeaven🕋/🕋MyHeaven🕋?v=1"><img src="https://i.ibb.co/YNwCMsp/zusyco-replit-template-btn.png" alt="--🕋MyHeaven🕋" border="2" width="170" height="46" ></a>
 
 <br><br>
 #### Whatsapp Channel
